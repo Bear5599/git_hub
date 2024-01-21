@@ -1,4 +1,4 @@
-
+import random
 
 def data(stored_value):
     if isinstance(stored_value, str):
@@ -11,8 +11,12 @@ def data(stored_value):
     else:
         return "Letters only please"
     
-
+def test():
+    pass
 
 
 user_input = input("Type something: ")
-data(user_input)
+data(user_input) 
+def number_thing():
+    for index in range(10):
+        print(index)
