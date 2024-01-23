@@ -1,0 +1,1 @@
+# Create a screen capture bot for a game
