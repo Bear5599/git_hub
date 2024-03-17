@@ -16,7 +16,7 @@ def main():
     t = turtle.Turtle()
     t.hideturtle()
 
-    draw_triangle(-100, 0, 0, 173.2, 100, 0, t)
+    draw_triangle(-100, 0, 0, -173.2, 100, 0, t)
 
     turtle.mainloop()
 
